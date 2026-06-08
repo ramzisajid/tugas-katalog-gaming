@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "ASUS Zenbook 14 OLED",
+    "harga": "Rp 22.999.000",
+    "gambar": "https://id.store.asus.com/media/catalog/product/z/e/zenbook_14_oled_ux3405ma_product_photo_3s_foggy_silver_03_indo_no_numpad_2400_3.png?store=id_ID&image-type=image",
+    "deskripsi": "Layar ASUS Lumina OLED dengan resolusi 2880 x 1800 pixel yang sangat jelas membuat setiap momen menjadi luar biasa, dengan kecerahan hingga 600-nit, rasio aspek 16:10 yang lebih nyaman untuk browsing, dan rasio layar-ke-tubuh 87%. Serta sinkronisasi adaptif secara otomatis yang dapat menyesuaikan kecepatan refresh untuk visual yang selalu mulus.",
+    "spek": "Processor: INTEL ARL H Core™ Ultra 9,Graphic: Intel® Arc™ Graphics,Memory: 32GB LPDDR5X on board,Storage: 1TB M.2 NVMe™ PCIe® 4.0 SSD,Display: 3K (2880 x 1800) OLED 16:10 aspect ratio,Operating System: Windows 11 Home,Microsoft Office Home 2024 + Microsoft 365 Basic (1 Year Free 100 GB Cloud Storage)."
+  },
+  {
+    "nama": "ASUS TUF Gaming A15 FA506",
+    "harga": "Rp 15.999.000",
+    "gambar": "https://gadgetren.com/wp-content/uploads/2020/05/ASUS-TUF-Gaming-A15-FX506-Dual.jpg",
+    "deskripsi": "ASUS TUF Gaming A15 harus berhasil bertahan dari baterai tes MIL-STD-810H dengan standar yang ketat. Perangkat uji terkena tetesan, getaran, kelembapan, dan suhu ekstrem untuk memastikan keandalan. Dapat diandalkan bahkan dalam kondisi yang paling keras, A15 lebih dari mampu menahan benturan dalam kehidupan sehari-hari.",
+    "spek": "Processor: AMD Ryzen™ 7 7445HS Processor 3.2GHz (22MB Cache, up to 4.7GHz, 6 cores, 12 Threads),GPU: NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6,Display: 15.6-inch FHD (1920 x 1080) 16:9 Adaptive-Sync IPS-level Anti-glare display,Memory: 16GB DDR5-5600 SO-DIMM,Storage: 512GB PCIe® 4.0 NVMe™ M.2 SSD,Operating System: Windows 11 Home,Microsoft Office Home 2024 + Microsoft 365 Basic (1 Year Free 100 GB Cloud Storage)"
+  },
+  {
+    "nama": "Lenovo LOQ 15IAX9",
+    "harga": "Rp 12.000.000",
+    "gambar": "https://p4-ofp.static.pub//fes/cms/2023/12/18/18nystx5on3trzaf0833zmjmvjj06e403178.jpg",
+    "deskripsi": "Laptop gaming entry-level andalan Lenovo yang menawarkan pendinginan superior dengan teknologi hyperchamber. Didesain tangguh untuk menangani game kompetitif modern dan multitasking berat tanpa penurunan performa.",
+    "spek": "Processor: Intel® Core™ i5-12450HX,GPU: NVIDIA® GeForce RTX™ 4050 Laptop GPU 6 GB GDDR6 (95W) 2370MHz Boost Clock,Memory: 16GB 4800MHz DDR5,Storage: 512GB PCIe® Gen 4 SSD,Display: 15.6” FHD (1920 x 1080) IPS-level Anti-glare display,Operating System: Windows 11 Home,Microsoft Office Home 2024 + Microsoft 365 Basic (1 Year Free 100 GB Cloud Storage)"
+  }
+]

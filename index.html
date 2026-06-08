@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Akhir - Listing Laptop Terpisah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Katalog Laptop Gaming</h1>
+        <p>Ringkas, elegan, dan fokus pada performa untuk gamer dan kreator.</p>
+    </header>
+
+    <div class="brand-badge" aria-hidden="true">
+        <div class="brand-mark">
+            <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <path d="M32 4 L54 14 V31 C54 47 42 58 32 60 C22 58 10 47 10 31 V14 L32 4 Z" fill="#0ea5e9" opacity="0.95" />
+                <path d="M23 20 L33 20 L29 34 H36 L25 50 L32 50 L36 36 H30 L34 22 L23 22 Z" fill="#020617" />
+                <path d="M32 8 L52 17.5 V31 C52 45 41 55 32 57 C23 55 12 45 12 31 V17.5 L32 8 Z" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2" />
+            </svg>
+        </div>
+        <div class="brand-copy">
+            <strong>El_Katalog</strong>
+            <small>Katalog Gaming</small>
+        </div>
+    </div>
+
+    <section class="hero">
+        <div class="hero-card">
+            <span class="hero-tag">Pilihan Gaming</span>
+            <h2>Spesifikasi tinggi dengan desain minimalis dan suasana futuristik.</h2>
+            <p>Pilih laptop yang tepat tanpa gangguan visual. Hanya informasi penting, tampilan modern, dan kesan elegan.</p>
+        </div>
+    </section>
+
+    <main class="container" id="laptop-container">
+        <div id="loading" class="status-pesan">
+            Sedang memuat data laptop...
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>Direkomendasikan: pilih laptop dengan prosesor kuat, RAM cukup, dan layar yang nyaman untuk pekerjaan sehari-hari.</p>
+    </footer>
+
+    <div class="corner-badge" aria-hidden="true">
+        <span>Ramz Sajid</span>
+    </div>
+
+    <div id="modal" class="modal hidden" aria-hidden="true">
+        <div class="modal-content">
+            <button id="modal-close" class="modal-close" aria-label="Tutup spesifikasi">×</button>
+            <h2 id="modal-title">Spesifikasi Laptop</h2>
+            <div class="modal-image-wrapper">
+                <img id="modal-image" class="modal-image" src="" alt="Foto laptop">
+            </div>
+            <p id="modal-body"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
